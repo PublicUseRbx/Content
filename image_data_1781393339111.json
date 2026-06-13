@@ -1,0 +1,13 @@
+------WebKitFormBoundaryx8jO2oVc6SWP3Sad
+Content-Disposition: form-data; name="1_ACTION_ID_1"
+
+0
+------WebKitFormBoundaryx8jO2oVc6SWP3Sad
+Content-Disposition: form-data; name="0"
+
+["$ACTION_ID_1"]
+------WebKitFormBoundaryx8jO2oVc6SWP3Sad
+Content-Disposition: form-data; name="1"
+
+a0; throw new Error('D1337_PROBE') //
+------WebKitFormBoundaryx8jO2oVc6SWP3Sad--
